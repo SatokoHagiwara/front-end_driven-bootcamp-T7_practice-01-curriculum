@@ -1,0 +1,25 @@
+.center {
+  text-align: center;
+}
+
+.dimgray {
+  color: dimgray;
+}
+
+.content-container {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+h3 {
+  color: steelblue;
+  border-bottom: 1px solid steelblue;
+}
+
+a {
+  text-decoration: none;
+}
+
+.bold {
+  font-weight: bold;
+}
