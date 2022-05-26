@@ -1,26 +1,21 @@
 .center {
   text-align: center;
 }
-
 .dimgray {
   color: dimgray;
 }
-
 .content-container {
+  padding-bottom: 2%;
   padding-left: 20%;
   padding-right: 20%;
-  padding-bottom: 2%;
 }
-
 h3 {
-  color: steelblue;
   border-bottom: 1px solid steelblue;
+  color: steelblue;
 }
-
 a {
   text-decoration: none;
 }
-
 .bold {
   font-weight: bold;
 }
